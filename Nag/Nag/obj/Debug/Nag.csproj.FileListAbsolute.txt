@@ -1,0 +1,251 @@
+E:\rabota\ИС нагрузка препода\Nag\Nag\bin\Debug\Nag.exe.config
+E:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.csprojResolveAssemblyReference.cache
+E:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.Properties.Resources.resources
+E:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.csproj.GenerateResource.Cache
+e:\rabota\ИС нагрузка препода\Nag\Nag\bin\Debug\Nag.exe
+e:\rabota\ИС нагрузка препода\Nag\Nag\bin\Debug\Nag.pdb
+e:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.Form1.resources
+e:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.exe
+e:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.pdb
+e:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.Form_god.resources
+e:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.Form_grup.resources
+e:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.Form_teacher.resources
+e:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.Form_predmet.resources
+e:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.Form_nag.resources
+e:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.Form_ot1.resources
+e:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.Form_ot2.resources
+e:\rabota\ИС нагрузка препода\Nag\Nag\obj\Debug\Nag.Form_ot3.resources
+e:\rabota\Прокат\Nag\Nag\bin\Debug\Nag.exe.config
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.exe
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.pdb
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.csprojResolveAssemblyReference.cache
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.Form1.resources
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.Form_strana.resources
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.Form_ot1.resources
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.Properties.Resources.resources
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.Form_ot2.resources
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.Form_ot3.resources
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.csproj.GenerateResource.Cache
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.Form_klient.resources
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.Form_men.resources
+e:\rabota\Прокат\Nag\Nag\bin\Debug\Nag.exe
+e:\rabota\Прокат\Nag\Nag\bin\Debug\Nag.pdb
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.Form_vid.resources
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.Form_prokat.resources
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.Form_ot4.resources
+e:\rabota\Прокат\Nag\Nag\obj\Debug\Nag.Form_ot5.resources
+e:\rabota\Прокат\ответ new\Nag\Nag\bin\Debug\Nag.exe.config
+e:\rabota\Прокат\ответ new\Nag\Nag\obj\Debug\Nag.exe
+e:\rabota\Прокат\ответ new\Nag\Nag\obj\Debug\Nag.pdb
+e:\rabota\ИС Ларек\Nag\Nag\bin\Debug\Nag.exe.config
+e:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.exe
+e:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.pdb
+E:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.csprojResolveAssemblyReference.cache
+E:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.Form1.resources
+E:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.Form_strana.resources
+E:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.Form_prokat.resources
+E:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.Form_ot1.resources
+E:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.Form_klient.resources
+E:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.Properties.Resources.resources
+E:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.Form_vid.resources
+E:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.Form_men.resources
+E:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.Form_ot2.resources
+E:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.Form_ot3.resources
+E:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.Form_ot5.resources
+E:\rabota\ИС Ларек\Nag\Nag\obj\Debug\Nag.csproj.GenerateResource.Cache
+E:\rabota\ИС Ларек\Nag\Nag\bin\Debug\Nag.exe
+E:\rabota\ИС Ларек\Nag\Nag\bin\Debug\Nag.pdb
+e:\rabota\ИС Ларек\ответ\Nag\Nag\bin\Debug\Nag.exe.config
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.exe
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.pdb
+e:\rabota\ИС Ларек\ответ\Nag\Nag\bin\Debug\Nag.exe
+e:\rabota\ИС Ларек\ответ\Nag\Nag\bin\Debug\Nag.pdb
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.csprojResolveAssemblyReference.cache
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.Form1.resources
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.Form_strana.resources
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.Form_prokat.resources
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.Form_ot1.resources
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.Form_klient.resources
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.Properties.Resources.resources
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.Form_vid.resources
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.Form_men.resources
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.Form_ot2.resources
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.Form_ot3.resources
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.Form_ot5.resources
+e:\rabota\ИС Ларек\ответ\Nag\Nag\obj\Debug\Nag.csproj.GenerateResource.Cache
+e:\rabota\ИС Турогенство\Nag\Nag\bin\Debug\Nag.exe.config
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.exe
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.pdb
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.csprojResolveAssemblyReference.cache
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.Form1.resources
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.Form_strana.resources
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.Form_prokat.resources
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.Form_ot1.resources
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.Form_klient.resources
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.Properties.Resources.resources
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.Form_men.resources
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.Form_ot2.resources
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.Form_ot3.resources
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.Form_ot5.resources
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.csproj.GenerateResource.Cache
+e:\rabota\ИС Турогенство\Nag\Nag\bin\Debug\Nag.exe
+e:\rabota\ИС Турогенство\Nag\Nag\bin\Debug\Nag.pdb
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.Form_ot4.resources
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.Form_tip.resources
+e:\rabota\ИС Турогенство\Nag\Nag\obj\Debug\Nag.Form_ot6.resources
+e:\rabota\ИС Книжный магазин\Nag\Nag\bin\Debug\Nag.exe.config
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.exe
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.pdb
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.csprojResolveAssemblyReference.cache
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.Form1.resources
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.Form_kniga.resources
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.Form_tovar.resources
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.Form_ot1.resources
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.Form_klient.resources
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.Properties.Resources.resources
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.Form_men.resources
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.Form_ot2.resources
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.Form_ot3.resources
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.Form_ot5.resources
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.Form_ot4.resources
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.Form_ot6.resources
+e:\rabota\ИС Книжный магазин\Nag\Nag\obj\Debug\Nag.csproj.GenerateResource.Cache
+e:\rabota\ИС Книжный магазин\Nag\Nag\bin\Debug\Nag.exe
+e:\rabota\ИС Книжный магазин\Nag\Nag\bin\Debug\Nag.pdb
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\bin\Debug\Nag.exe.config
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.exe
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.pdb
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\bin\Debug\Nag.exe
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\bin\Debug\Nag.pdb
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.csprojResolveAssemblyReference.cache
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.Form1.resources
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.Form_izd.resources
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.Form_kniga.resources
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.Form_tovar.resources
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.Form_ot1.resources
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.Form_klient.resources
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.Properties.Resources.resources
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.Form_men.resources
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.Form_ot2.resources
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.Form_ot3.resources
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.Form_ot5.resources
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.Form_ot4.resources
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.Form_ot6.resources
+e:\rabota\ИС Книжный магазин\другие требования\ответ\Nag\Nag\obj\Debug\Nag.csproj.GenerateResource.Cache
+e:\rabota\ИС Книжный магазин\ответ БД\Nag\Nag\bin\Debug\Nag.exe.config
+e:\rabota\ИС Книжный магазин\ответ БД\Nag\Nag\obj\Debug\Nag.exe
+e:\rabota\ИС Книжный магазин\ответ БД\Nag\Nag\obj\Debug\Nag.pdb
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\bin\Debug\Nag.exe.config
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.exe
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.pdb
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.csprojResolveAssemblyReference.cache
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.Form1.resources
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.Form_post.resources
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.Form_teh.resources
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.Form_tovar.resources
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.Form_ot1.resources
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.Form_klient.resources
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.Properties.Resources.resources
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.Form_men.resources
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.Form_ot2.resources
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.Form_ot3.resources
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.Form_ot5.resources
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.Form_ot4.resources
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.Form_ot6.resources
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\obj\Debug\Nag.csproj.GenerateResource.Cache
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\bin\Debug\Nag.exe
+e:\Работа\ИС магазин бытавой техники\Nag\Nag\bin\Debug\Nag.pdb
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\bin\Debug\Nag.exe.config
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.exe
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.pdb
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.csprojResolveAssemblyReference.cache
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form1.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_ost.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_post.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_teh.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_tranzak.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_vid.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_zakaz.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_ot1.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_klient.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Properties.Resources.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_men.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_ot2.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_ot3.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_ot5.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_ot4.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.Form_ot6.resources
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\obj\Debug\Nag.csproj.GenerateResource.Cache
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\bin\Debug\Nag.exe
+e:\Работа\ИС магазин бытавой техники\04.03.2021\Nag\Nag\bin\Debug\Nag.pdb
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\bin\Debug\Nag.exe.config
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.exe
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.pdb
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.csprojResolveAssemblyReference.cache
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form1.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_ost.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_post.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_teh.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_tranzak.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_vid.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_zakaz.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_ot1.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_klient.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Properties.Resources.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_men.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_ot2.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_ot3.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_ot5.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_ot4.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.Form_ot6.resources
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\obj\Debug\Nag.csproj.GenerateResource.Cache
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\bin\Debug\Nag.exe
+e:\Работа\ИС ИТ компания\Компьютерный салон\Nag\Nag\bin\Debug\Nag.pdb
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\bin\Debug\Nag.exe.config
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\bin\Debug\Nag.exe
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\bin\Debug\Nag.pdb
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.csproj.AssemblyReference.cache
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form1.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_ost.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_post.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_teh.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_tranzak.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_vid.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_zakaz.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_ot1.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_klient.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Properties.Resources.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_men.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_ot2.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_ot3.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_ot5.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_ot4.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.Form_ot6.resources
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.csproj.GenerateResource.cache
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.csproj.CoreCompileInputs.cache
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.exe
+C:\Users\Аркаша\Desktop\ответ\ответ\Nag\Nag\obj\Debug\Nag.pdb
+D:\kursach\Otvet\Nag\Nag\bin\Debug\Nag.exe.config
+D:\kursach\Otvet\Nag\Nag\bin\Debug\Nag.exe
+D:\kursach\Otvet\Nag\Nag\bin\Debug\Nag.pdb
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.csproj.AssemblyReference.cache
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form1.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_ost.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_post.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_teh.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_tranzak.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_vid.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_zakaz.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_ot1.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_klient.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Properties.Resources.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_men.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_ot2.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_ot3.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_ot5.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_ot4.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.Form_ot6.resources
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.csproj.GenerateResource.cache
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.csproj.CoreCompileInputs.cache
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.exe
+D:\kursach\Otvet\Nag\Nag\obj\Debug\Nag.pdb
